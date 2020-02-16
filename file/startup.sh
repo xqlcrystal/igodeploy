@@ -10,7 +10,7 @@ case "`uname`" in
 		;;
 esac
 base=${bin_abs_path}/..
-app=igo-cloud-zuul-0.0.1-SNAPSHOT.jar
+app=igo-cloud-file-api-1.0-SNAPSHOT.jar
 
 ## set java path
 if [ -z "$JAVA" ] ; then
